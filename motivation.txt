@@ -1,4 +1,8 @@
 Life is what happens when you're busy making other plans. -John Lennon
 
+<<<<<<< HEAD
 
 New Quote added
+=======
+New line added in quotebook from github directly
+>>>>>>> 012a117d35142d23ae6a065c8bb18188f5c22388
